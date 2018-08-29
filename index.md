@@ -1,18 +1,8 @@
-## Welcome to GitHub Pages
-# Thanks
+# Nick Pappas's First CS193 Lab
 
-### Markdown
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Informative
+- Gives me the tools I need for the future
+- I learn new things
+- It is fun
+- I get to code
+- Introduces me to opportunities such as clubs and other student orgs
